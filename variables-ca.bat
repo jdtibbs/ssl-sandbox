@@ -1,0 +1,3 @@
+SET CA_ALIAS=ca
+SET CA_CERT=ca.crt
+SET CA_STORE=ca.jks
